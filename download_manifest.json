@@ -1,0 +1,391 @@
+[
+  {
+    "assignment": "25级第一次作业",
+    "proNum": 1,
+    "title": "字母频率统计",
+    "status": "downloaded",
+    "filename": "code/第01次_25级第一次作业/01_字母频率统计/bar.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第一次作业",
+    "proNum": 2,
+    "title": "扩展字符A",
+    "status": "downloaded",
+    "filename": "code/第01次_25级第一次作业/02_扩展字符A/expand.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第一次作业",
+    "proNum": 3,
+    "title": "表达式计算（支持空格，连乘，连除）",
+    "status": "downloaded",
+    "filename": "code/第01次_25级第一次作业/03_表达式计算（支持空格，连乘，连除）/example1c.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第一次作业",
+    "proNum": 4,
+    "title": "小数形式与科学计数法转换（简）",
+    "status": "downloaded",
+    "filename": "code/第01次_25级第一次作业/04_小数形式与科学计数法转换（简）/notation.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第一次作业",
+    "proNum": 5,
+    "title": "超长正整数的减法",
+    "status": "downloaded",
+    "filename": "code/第01次_25级第一次作业/05_超长正整数的减法/subtract.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第一次作业",
+    "proNum": 6,
+    "title": "全排列数的生成",
+    "status": "downloaded",
+    "filename": "code/第01次_25级第一次作业/06_全排列数的生成/all_order.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第二次作业",
+    "proNum": 1,
+    "title": "五子棋危险判断",
+    "status": "downloaded",
+    "filename": "code/第02次_25级第二次作业/01_五子棋危险判断/chess.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第二次作业",
+    "proNum": 2,
+    "title": "字符串替换（新）",
+    "status": "downloaded",
+    "filename": "code/第02次_25级第二次作业/02_字符串替换（新）/replace.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第二次作业",
+    "proNum": 3,
+    "title": "加密文件",
+    "status": "downloaded",
+    "filename": "code/第02次_25级第二次作业/03_加密文件/encrypt.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第二次作业",
+    "proNum": 4,
+    "title": "通讯录整理",
+    "status": "downloaded",
+    "filename": "code/第02次_25级第二次作业/04_通讯录整理/sort.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第二次作业",
+    "proNum": 5,
+    "title": "小型图书管理系统",
+    "status": "downloaded",
+    "filename": "code/第02次_25级第二次作业/05_小型图书管理系统/books.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "proNum": 1,
+    "title": "参考文献整理",
+    "href": "https://judge.buaa.edu.cn/assignment/programList.jsp?proNum=1&assignID=2000",
+    "assignment": "25级第二次作业（补充作业，不算入成绩）",
+    "status": "no-download-link"
+  },
+  {
+    "proNum": 2,
+    "title": "查找C程序中未使用的变量",
+    "href": "https://judge.buaa.edu.cn/assignment/programList.jsp?proNum=2&assignID=2000",
+    "assignment": "25级第二次作业（补充作业，不算入成绩）",
+    "status": "no-download-link"
+  },
+  {
+    "proNum": 3,
+    "title": "科学计数法与浮点数转换",
+    "href": "https://judge.buaa.edu.cn/assignment/programList.jsp?proNum=3&assignID=2000",
+    "assignment": "25级第二次作业（补充作业，不算入成绩）",
+    "status": "no-download-link"
+  },
+  {
+    "proNum": 4,
+    "title": "模式字符串查找替换",
+    "href": "https://judge.buaa.edu.cn/assignment/programList.jsp?proNum=4&assignID=2000",
+    "assignment": "25级第二次作业（补充作业，不算入成绩）",
+    "status": "no-download-link"
+  },
+  {
+    "proNum": 5,
+    "title": "超长整数的乘法运算",
+    "href": "https://judge.buaa.edu.cn/assignment/programList.jsp?proNum=5&assignID=2000",
+    "assignment": "25级第二次作业（补充作业，不算入成绩）",
+    "status": "no-download-link"
+  },
+  {
+    "assignment": "25级第三次作业（线性表）",
+    "proNum": 1,
+    "title": "连续线段",
+    "status": "downloaded",
+    "filename": "code/第03次_25级第三次作业（线性表）/01_连续线段/line.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第三次作业（线性表）",
+    "proNum": 2,
+    "title": "多项式相乘",
+    "status": "downloaded",
+    "filename": "code/第03次_25级第三次作业（线性表）/02_多项式相乘/multi.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第三次作业（线性表）",
+    "proNum": 3,
+    "title": "空闲空间申请模拟（最佳适应）",
+    "status": "downloaded",
+    "filename": "code/第03次_25级第三次作业（线性表）/03_空闲空间申请模拟（最佳适应）/memory.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第三次作业（线性表）",
+    "proNum": 4,
+    "title": "文件加密（环）",
+    "status": "downloaded",
+    "filename": "code/第03次_25级第三次作业（线性表）/04_文件加密（环）/encode.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第三次作业（线性表）",
+    "proNum": 5,
+    "title": "词频统计（数组或链表实现）",
+    "status": "downloaded",
+    "filename": "code/第03次_25级第三次作业（线性表）/05_词频统计（数组或链表实现）/article.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第三次作业（补充作业，不算入成绩）",
+    "proNum": 1,
+    "title": "银块管理",
+    "status": "downloaded",
+    "filename": "code/第03次_补充_25级第三次作业（补充作业，不算入成绩）/01_银块管理/silver.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第三次作业（补充作业，不算入成绩）",
+    "proNum": 2,
+    "title": "基于前移法的链表查找",
+    "status": "downloaded",
+    "filename": "code/第03次_补充_25级第三次作业（补充作业，不算入成绩）/02_基于前移法的链表查找/link.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第三次作业（补充作业，不算入成绩）",
+    "proNum": 3,
+    "title": "环选择排序",
+    "status": "downloaded",
+    "filename": "code/第03次_补充_25级第三次作业（补充作业，不算入成绩）/03_环选择排序/sort.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第四次作业（栈和队）",
+    "proNum": 1,
+    "title": "栈操作（栈-基本题）",
+    "status": "downloaded",
+    "filename": "code/第04次_25级第四次作业（栈和队）/01_栈操作（栈-基本题）/stack.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第四次作业（栈和队）",
+    "proNum": 2,
+    "title": "计算器（表达式计算-后缀表达式实现，结果为浮点）",
+    "status": "downloaded",
+    "filename": "code/第04次_25级第四次作业（栈和队）/02_计算器（表达式计算-后缀表达式实现，结果为浮点）/cal.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第四次作业（栈和队）",
+    "proNum": 3,
+    "title": "函数调用关系",
+    "status": "downloaded",
+    "filename": "code/第04次_25级第四次作业（栈和队）/03_函数调用关系/stack.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第四次作业（栈和队）",
+    "proNum": 4,
+    "title": "文本编辑操作模拟（简）a",
+    "status": "downloaded",
+    "filename": "code/第04次_25级第四次作业（栈和队）/04_文本编辑操作模拟（简）a/edit.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第四次作业（栈和队）",
+    "proNum": 5,
+    "title": "银行排队模拟（生产者-消费者模拟） - 分类别",
+    "status": "downloaded",
+    "filename": "code/第04次_25级第四次作业（栈和队）/05_银行排队模拟（生产者-消费者模拟） - 分类别/simulate_bank.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "proNum": 1,
+    "title": "C程序括号匹配检查（选做，不计分）",
+    "href": "https://judge.buaa.edu.cn/assignment/programList.jsp?proNum=1&assignID=2106",
+    "assignment": "25级第四次作业（补充作业，不算入成绩）",
+    "status": "no-download-link"
+  },
+  {
+    "proNum": 2,
+    "title": "Web浏览（选做，不计分）",
+    "href": "https://judge.buaa.edu.cn/assignment/programList.jsp?proNum=2&assignID=2106",
+    "assignment": "25级第四次作业（补充作业，不算入成绩）",
+    "status": "no-download-link"
+  },
+  {
+    "proNum": 3,
+    "title": "火车货运调度模拟（选做，不计分）",
+    "href": "https://judge.buaa.edu.cn/assignment/programList.jsp?proNum=3&assignID=2106",
+    "assignment": "25级第四次作业（补充作业，不算入成绩）",
+    "status": "no-download-link"
+  },
+  {
+    "proNum": 4,
+    "title": "老鼠回家-无回路（选做，不计分）",
+    "href": "https://judge.buaa.edu.cn/assignment/programList.jsp?proNum=4&assignID=2106",
+    "assignment": "25级第四次作业（补充作业，不算入成绩）",
+    "status": "no-download-link"
+  },
+  {
+    "assignment": "25级第五次作业（树）",
+    "proNum": 1,
+    "title": "树叶节点遍历（树-基础题）",
+    "status": "downloaded",
+    "filename": "code/第05次_25级第五次作业（树）/01_树叶节点遍历（树-基础题）/bst.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第五次作业（树）",
+    "proNum": 2,
+    "title": "计算器（表达式计算-表达式树实现）",
+    "status": "downloaded",
+    "filename": "code/第05次_25级第五次作业（树）/02_计算器（表达式计算-表达式树实现）/expression_tree.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第五次作业（树）",
+    "proNum": 3,
+    "title": "服务优化",
+    "status": "downloaded",
+    "filename": "code/第05次_25级第五次作业（树）/03_服务优化/adjust.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第五次作业（树）",
+    "proNum": 4,
+    "title": "词频统计（树实现）",
+    "status": "downloaded",
+    "filename": "code/第05次_25级第五次作业（树）/04_词频统计（树实现）/binary_sort.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "proNum": 5,
+    "title": "基于Huffman码的文件压缩和解压工具（选做，本题只测试压缩功能）",
+    "href": "https://judge.buaa.edu.cn/assignment/programList.jsp?proNum=5&assignID=2139",
+    "assignment": "25级第五次作业（树）",
+    "status": "no-download-link"
+  },
+  {
+    "proNum": 6,
+    "title": "基于Huffman码的文件压缩和解压工具（选做，本题只测试解压功能）",
+    "href": "https://judge.buaa.edu.cn/assignment/programList.jsp?proNum=6&assignID=2139",
+    "assignment": "25级第五次作业（树）",
+    "status": "no-download-link"
+  },
+  {
+    "assignment": "25级第六次作业（图）",
+    "proNum": 1,
+    "title": "图遍历（图-基本题）",
+    "status": "downloaded",
+    "filename": "code/第06次_25级第六次作业（图）/01_图遍历（图-基本题）/graphSearch.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第六次作业（图）",
+    "proNum": 2,
+    "title": "独立路径数计算",
+    "status": "downloaded",
+    "filename": "code/第06次_25级第六次作业（图）/02_独立路径数计算/map.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第六次作业（图）",
+    "proNum": 3,
+    "title": "最少布线（图）",
+    "status": "downloaded",
+    "filename": "code/第06次_25级第六次作业（图）/03_最少布线（图）/Prim.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第六次作业（图）",
+    "proNum": 4,
+    "title": "北京地铁乘坐线路查询（202205）",
+    "status": "downloaded",
+    "filename": "code/第06次_25级第六次作业（图）/04_北京地铁乘坐线路查询（202205）/bgstations.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第七次作业（查找与排序）",
+    "proNum": 1,
+    "title": "学生在线上机时间统计",
+    "status": "downloaded",
+    "filename": "code/第07次_25级第七次作业（查找与排序）/01_学生在线上机时间统计/time.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第七次作业（查找与排序）",
+    "proNum": 2,
+    "title": "查找同时空人员",
+    "status": "downloaded",
+    "filename": "code/第07次_25级第七次作业（查找与排序）/02_查找同时空人员/same.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第七次作业（查找与排序）",
+    "proNum": 3,
+    "title": "单词查找（查找-基本题）",
+    "status": "downloaded",
+    "filename": "code/第07次_25级第七次作业（查找与排序）/03_单词查找（查找-基本题）/find.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第七次作业（查找与排序）",
+    "proNum": 4,
+    "title": "排座位（简）a",
+    "status": "downloaded",
+    "filename": "code/第07次_25级第七次作业（查找与排序）/04_排座位（简）a/seat.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "25级第七次作业（查找与排序）",
+    "proNum": 5,
+    "title": "整数排序（排序-基本题）",
+    "status": "downloaded",
+    "filename": "code/第07次_25级第七次作业（查找与排序）/05_整数排序（排序-基本题）/sort.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "2025级（信息大类）数据结构综合作业",
+    "proNum": 1,
+    "title": "一种面向智能问答的简单检索算法(综合-小样本）",
+    "status": "downloaded",
+    "filename": "code/综合作业_2025级（信息大类）数据结构综合作业/01_一种面向智能问答的简单检索算法(综合-小样本）/retriever.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  },
+  {
+    "assignment": "2025级（信息大类）数据结构综合作业",
+    "proNum": 2,
+    "title": "一种面向智能问答的简单检索算法(综合-大样本）",
+    "status": "downloaded",
+    "filename": "code/综合作业_2025级（信息大类）数据结构综合作业/02_一种面向智能问答的简单检索算法(综合-大样本）/retriver.c",
+    "contentType": "application/octet-stream;charset=UTF-8"
+  }
+]
